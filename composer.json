@@ -1,0 +1,23 @@
+{
+    "name": "amintado/yii2-option",
+    "description": "very simple and useful for  set every variable or object in database",
+    "keywords": ["yii2", "yii2-settings", "yii2-options","amintado"],
+    "type": "yii2-extension",
+    "license": "GPL",
+    "version": "0.1",
+    "homepage": "https://github.com/amintado/yii2-option",
+    "authors": [
+        {
+            "name": "amintado",
+            "email": "amintado@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "amintado\\options\\": ""
+        }
+    }
+}
